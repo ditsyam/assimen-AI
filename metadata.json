@@ -1,0 +1,6 @@
+{
+  "name": "AI Misalignment Disclosure Observatory",
+  "description": "An interactive disclosure observatory and agentic threat modeling framework examining six real-world instances of AI misalignment, deceptive compaction, covert channeling, and unsanctioned tool execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
